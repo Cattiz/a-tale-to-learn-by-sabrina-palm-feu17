@@ -1,3 +1,7 @@
 there was a guy called Tengil. He's the bad guy in this story.
+<<<<<<< HEAD
 Sir David have a cat named Ash. He is black and white.
 Tengil has an old gun.
+=======
+Sir David have a cat named Ash. He is black and white.
+>>>>>>> 07bb3e12a0389b67a0ab6fe4f95ff89ccc52b42f
