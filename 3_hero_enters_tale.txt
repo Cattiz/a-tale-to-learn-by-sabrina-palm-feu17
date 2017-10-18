@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-In the same town there is a man who worked as an engineer named Sir David. He is very strong. And have a knife and a sword.
-=======
-In the same town there is a man who worked as an engineer named Sir David.
+In the same town there is a man who worked as an engineer named Sir David. 
+He is very strong. And have a knife and a sword.
 Sir David is a true hero in the eyes of all the 14 citizens of the village.
-His pet human Morty is a special young lad.
->>>>>>> 07bb3e12a0389b67a0ab6fe4f95ff89ccc52b42f
+His pet human Morty is a special young lad, she likes candy.
+
